@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Final_A13DavidTM">
+    <item  android:id="@+id/cor_action" android:title="@string/cor"
+        android:orderInCategory="100" android:showAsAction="always" >
+        <menu>
+                <item
+                    android:id="@+id/azul"
+                    android:title="Azul">
+                </item>
+                <item
+                    android:id="@+id/verde"
+                    android:title="Verde">
+                </item>
+        </menu>
+        </item>
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>

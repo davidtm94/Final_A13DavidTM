@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Final_A13DavidTM</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="chamar">Chamar</string>
+    <string name="salario">Salario</string>
+    <string name="video">Vídeo</string>
+    <string name="audio">Audio</string>
+    <string name="introduceNome">Introduce o teu nome</string>
+    <string name="cor">cor</string>
+    <string name="toastChamada">Debes cubrir o campo telefono</string>
+    <string name="title_activity_procesar_salario">ProcesarSalario</string>
+    <string name="title_activity_audio">AudioActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+
+</resources>
